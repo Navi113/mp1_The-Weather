@@ -1,0 +1,23 @@
+.card {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#d2d2d2, #939393);
+  border: 2px solid #9489e8;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: box-shadow .3s linear;
+  overflow: hidden;
+}
+
+/* .card:has(.card__temp):hover {
+  box-shadow: 0 0 50px rgba(100, 100, 100, .5);
+} */
+
+.card:hover {
+  box-shadow: 0 0 50px rgba(100, 100, 100, .5);
+}
+

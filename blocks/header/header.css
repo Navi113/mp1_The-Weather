@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  height: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  background-image: linear-gradient(#f7ff0a, #10c0b4, #3db93f);
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #3db93f;
+  cursor: pointer;
+  transition: box-shadow .4s ease;
+  box-sizing: border-box;
+}
+
+.header:hover {
+  box-shadow: 0 0 100px #f7ff0a;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Weather</title>
+  <!-- На iPad третьего поколения с Retina-дисплеем: -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./images/svg page.png">
+  <!-- iPhone с Retina-дисплеем: -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./images/svg page.png">
+  <!-- iPad первого и второго поколений: -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./images/svg page.png">
+  <!-- iPhone, iPod Touch и Android 2.1+ устройства без Retina дисплея: -->
+  <link rel="apple-touch-icon-precomposed" href="./images/svg page.png">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="./images/sunshine.png">
+
+  <link rel="icon" href="./images/sunshine.ico">
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <h1 class="header__title">The Weather<span class="header__span"> is great</span></h1>
+    </header>
+    <section class="cards">
+      <div class="cards__wrapper">
+        <div class="card">
+          <img src="./images/cloud.svg" alt="cloud" class="card__img">
+          <img src="./images/sun.svg" alt="sun" class="card__img_type_sun">
+        </div>
+        <div class="card">
+          <div class="card__temp">&#8451</div>
+        </div>
+      </div>
+      <div class="card">
+        <img src="./images/weather.svg" alt="weather" class="card__img card__img_type_weather">
+      </div>
+    </section>
+  </div>
+</body>
+
+</html>
