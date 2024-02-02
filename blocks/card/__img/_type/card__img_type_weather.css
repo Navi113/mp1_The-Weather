@@ -1,6 +1,54 @@
+@keyframes switch {
+  0% {
+    bottom: -280px;
+    right: -190px;
+  }
+
+  10% {
+    bottom: -560px;
+    right: -190px;
+  }
+
+  20% {
+    bottom: -280px;
+    right: -190px;
+  }
+
+  30% {
+    bottom: -280px;
+    right: 70px;
+  }
+
+  40% {
+    bottom: -280px;
+    right: -190px;
+  }
+
+  50% {
+    bottom: -40px;
+    right: -190px;
+
+  }
+
+  60% {
+    bottom: -280px;
+    right: -190px;
+
+  }
+
+  70% {
+    bottom: -280px;
+    right: -490px;
+  }
+}
+
 .card__img_type_weather {
   width: 800px;
   height: 800px;
   position: absolute;
+  bottom: -280px;
   right: -190px;
+  animation: switch 2s infinite linear forwards;
+  /* bottom: -40px;
+  right: -190px; */
 }
