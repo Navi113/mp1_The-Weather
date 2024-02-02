@@ -4,41 +4,45 @@
     right: -190px;
   }
 
-  10% {
+  13% {
     bottom: -560px;
     right: -190px;
   }
 
-  20% {
+  26% {
     bottom: -280px;
     right: -190px;
   }
 
-  30% {
+  39% {
     bottom: -280px;
     right: 70px;
   }
 
-  40% {
+  52% {
     bottom: -280px;
     right: -190px;
   }
 
-  50% {
+  65% {
     bottom: -40px;
     right: -190px;
 
   }
 
-  60% {
+  78% {
     bottom: -280px;
     right: -190px;
-
   }
 
-  70% {
+  92% {
     bottom: -280px;
     right: -490px;
+  }
+
+  100% {
+    bottom: -280px;
+    right: -190px;
   }
 }
 
@@ -48,7 +52,5 @@
   position: absolute;
   bottom: -280px;
   right: -190px;
-  animation: switch 2s infinite linear forwards;
-  /* bottom: -40px;
-  right: -190px; */
+  animation: switch 6s infinite linear forwards;
 }

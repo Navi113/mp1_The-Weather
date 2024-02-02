@@ -10,7 +10,7 @@
   border-radius: 10px;
   cursor: pointer;
   transition: box-shadow .3s linear;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 /* .card:has(.card__temp):hover {
