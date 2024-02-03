@@ -54,3 +54,8 @@
   right: -190px;
   animation: switch 6s infinite linear forwards;
 }
+
+/* ставим на паузу анимацию при наведении курсора */
+.card__img_type_weather:hover {
+  animation-play-state: paused;
+}
