@@ -52,7 +52,7 @@
   position: absolute;
   bottom: -280px;
   right: -190px;
-  animation: switch 6s infinite linear forwards;
+  animation: switch 10s infinite linear forwards;
 }
 
 /* ставим на паузу анимацию при наведении курсора */
