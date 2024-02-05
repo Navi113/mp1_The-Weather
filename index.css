@@ -22,5 +22,3 @@
 @import url(./blocks/card/card.css);
 @import url(./blocks/card/__img/card__img.css);
 @import url(./blocks/card/__temp/card__temp.css);
-@import url(./blocks/card/__img/_type/card__img_type_sun.css);
-@import url(./blocks/card/__img/_type/card__img_type_weather.css);

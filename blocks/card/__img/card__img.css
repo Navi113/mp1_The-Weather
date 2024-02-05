@@ -1,4 +1,20 @@
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .card__img {
-  width: 53.3%;
-  height: 53.3%;
+  width: 50%;
+  height: 50%;
+  transition: transform .5s linear;
+  animation: rotate 10s linear infinite;
+}
+
+.card:hover .card__img {
+  transform: rotate(180deg);
 }
