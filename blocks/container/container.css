@@ -1,0 +1,11 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Inter', Arial, sans-serif;
+  background-color: rgb(255 255 255 / 30%);
+  backdrop-filter: blur(10px);
+  /* background-image: linear-gradient(rgba(216, 216, 216, 0.5), rgba(234, 234, 238, 0.5)); */
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 30px;
+}

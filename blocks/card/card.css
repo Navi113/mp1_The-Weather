@@ -6,11 +6,15 @@
   margin: 0 20px 0 0;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(#d2d2d2, #939393);
-  border: 2px solid #9489e8;
+  /* background-image: linear-gradient(#d2d2d2, #939393); */
+  background-color: rgb(255 255 255 / 30%);
+  backdrop-filter: blur(10px);
+  border: 1px solid #dcf5ea;
   border-radius: 10px;
   cursor: pointer;
-  transition: box-shadow .3s linear;
+  transition: 
+    box-shadow .3s ease,
+    transform .3s ease;
   overflow: hidden;
 }
 
@@ -20,5 +24,6 @@
 
 .card:hover {
   box-shadow: 0 0 50px rgba(100, 100, 100, .5);
+  transform: scale(1.05);
 }
 
