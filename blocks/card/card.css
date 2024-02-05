@@ -8,7 +8,7 @@
   align-items: center;
   background-color: rgb(255 255 255 / 30%);
   backdrop-filter: blur(10px);
-  border: 1px solid #dcf5ea;
+  border: 2px solid #dcf5ea;
   border-radius: 10px;
   cursor: pointer;
   transition: 
