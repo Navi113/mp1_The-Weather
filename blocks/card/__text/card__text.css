@@ -1,0 +1,17 @@
+@keyframes fliker {
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1.2);
+  }
+}
+
+.card__text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0;
+  animation: fliker 3s linear forwards;
+}

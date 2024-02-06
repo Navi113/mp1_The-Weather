@@ -1,22 +1,22 @@
-<svg width="260.000000" height="260.000000" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="300.000000" height="300.000000" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<desc>
 			Created with Pixso.
 	</desc>
 	<defs>
 		<clipPath id="clip0_3">
-			<rect id="svg" width="260.000000" height="260.000000" fill="white" fill-opacity="0"/>
+			<rect id="svg" width="300.000000" height="300.000000" fill="white" fill-opacity="0"/>
 		</clipPath>
 	</defs>
 	<g clip-path="url(#clip0_3)">
-		<circle id="circle" cx="130.000000" cy="130.000000" r="53.625000" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<circle id="circle" cx="130.000000" cy="130.000000" r="53.625000" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
-		<rect id="rect" x="119.166664" y="0.000013" rx="10.000000" width="21.666666" height="54.166660" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="119.166664" y="205.833344" rx="10.000000" width="21.666666" height="54.166660" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="260.000000" y="119.166664" rx="10.000000" width="21.666666" height="54.166660" transform="rotate(90 260.000000 119.166664)" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="54.166672" y="119.166664" rx="10.000000" width="21.666666" height="54.166660" transform="rotate(90 54.166672 119.166664)" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="22.750019" y="38.070621" rx="10.000000" width="21.666662" height="54.166656" transform="rotate(-45 22.750019 38.070621)" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="38.070625" y="237.788300" rx="10.000000" width="21.666662" height="54.166668" transform="rotate(-135 38.070625 237.788300)" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="194.070404" y="76.372284" rx="10.000000" width="21.666662" height="54.166656" transform="rotate(-135 194.070404 76.372284)" fill="#FFFFFF" fill-opacity="1.000000"/>
-		<rect id="rect" x="178.750061" y="194.070404" rx="10.000000" width="21.666662" height="54.166656" transform="rotate(-45 178.750061 194.070404)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<circle id="circle" cx="150.000000" cy="150.000000" r="50.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<circle id="circle" cx="150.000000" cy="150.000000" r="50.000000" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<rect id="rect" x="140.000000" y="225.000000" rx="10.000000" width="20.000000" height="60.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="140.000000" y="15.000000" rx="10.000000" width="20.000000" height="60.000000" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="47.000000" y="60.142139" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(-45 47.000000 60.142139)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="225.000000" y="160.000000" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(-90 225.000000 160.000000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="15.000000" y="160.000000" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(-90 15.000000 160.000000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="197.000000" y="211.142136" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(-45 197.000000 211.142136)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="239.426407" y="46.000004" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(45 239.426407 46.000004)" fill="#FFFFFF" fill-opacity="1.000000"/>
+		<rect id="rect" x="89.426407" y="197.000000" rx="10.000000" width="20.000000" height="60.000000" transform="rotate(45 89.426407 197.000000)" fill="#FFFFFF" fill-opacity="1.000000"/>
 	</g>
 </svg>

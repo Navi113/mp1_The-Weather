@@ -20,5 +20,8 @@
 
 /* card */
 @import url(./blocks/card/card.css);
+@import url(./blocks/card/_display/card_display-flex.css);
 @import url(./blocks/card/__img/card__img.css);
 @import url(./blocks/card/__temp/card__temp.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__text/card__text.css);

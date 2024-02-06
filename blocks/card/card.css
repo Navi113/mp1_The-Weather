@@ -10,6 +10,7 @@
   backdrop-filter: blur(10px);
   border: 2px solid #dcf5ea;
   border-radius: 10px;
+  color: #fff;
   cursor: pointer;
   transition: 
     box-shadow .3s ease,
@@ -20,5 +21,9 @@
 .card:hover {
   box-shadow: 0 0 50px rgba(100, 100, 100, .5);
   transform: scale(1.05);
+}
+
+.card:last-child {
+  margin: 0;
 }
 
