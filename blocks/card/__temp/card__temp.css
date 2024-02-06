@@ -22,6 +22,7 @@
   line-height: 1.5;
   font-weight: bold;
   color: #fff;
+  transition: font-size .2s linear;
 }
 
 .card__temp::before {
@@ -29,3 +30,6 @@
   animation: temperature 15s linear infinite forwards;
 }
 
+.card__temp:hover {
+  font-size: 80px;
+}
